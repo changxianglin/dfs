@@ -1,0 +1,11 @@
+{
+  "name": "testa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xianglin <281532612@qq.com> (http://zhourong.host/)",
+  "license": "MIT"
+}
